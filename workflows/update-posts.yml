@@ -1,0 +1,26 @@
+name: Update Posts
+on:
+  schedule: # Run workflow automatically
+    - cron: "0 0 * * *" # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+
+permissions:
+  contents: write # To write the generated contents to the readme
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull in hyperse.net posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.hyperse.net/blog/feed.xml"
+          max_post_count: "5"
+          commit_message: "chore: update blog posts"
+          committer_email: "hi@hyperse.net"
+          committer_username: "terence"
+
