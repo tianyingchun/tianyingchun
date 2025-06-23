@@ -44,7 +44,9 @@ No activity tracked
 
 ### 📚 Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [迟来了一个月的 2023 年度总结 + 2024 新年快乐！](https://blog.mk1.io/posts/bye-2023)
-- [TypeScript小寄巧！如何在不使用const泛型修饰符的情况下推导出列表字面量？](https://blog.mk1.io/posts/ts-infer-array-without-const)
-- [快使用 Dprint 换掉你的 Prettier 罢（迫切](https://blog.mk1.io/posts/introduce-dprint)
+- [Testing React Keyboard Events with Vitest + Happy DOM](https://www.hyperse.net//article/vitest/testing-react-keyboard-events-with-vitest)
+- [使用 Vitest + Happy DOM 测试 React 键盘事件](https://www.hyperse.net//zh/article/vitest/testing-react-keyboard-events-with-vitest)
+- [Installing Tengine with `headers-more-nginx-module` on an ECS](https://www.hyperse.net//article/cloud/install-nginx-on-alibaba-cloud-ecs)
+- [Mastering Node.js Environments on Alibaba Cloud Linux with NVM and PM2](https://www.hyperse.net//article/cloud/install-nodejs-on-alibaba-cloud-ecs)
+- [Powering Your Web Applications with Tengine/Nginx on Alibaba Cloud ECS](https://www.hyperse.net//article/cloud/setup-nginx-on-alibaba-cloud-ecs)
 <!-- BLOG-POST-LIST:END -->
