@@ -44,9 +44,9 @@ No activity tracked
 
 ### 📚 Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [Testing React Keyboard Events with Vitest + Happy DOM](https://www.hyperse.net//article/vitest/testing-react-keyboard-events-with-vitest)
-- [使用 Vitest + Happy DOM 测试 React 键盘事件](https://www.hyperse.net//zh/article/vitest/testing-react-keyboard-events-with-vitest)
-- [Installing Tengine with `headers-more-nginx-module` on an ECS](https://www.hyperse.net//article/cloud/install-nginx-on-alibaba-cloud-ecs)
-- [Mastering Node.js Environments on Alibaba Cloud Linux with NVM and PM2](https://www.hyperse.net//article/cloud/install-nodejs-on-alibaba-cloud-ecs)
-- [Powering Your Web Applications with Tengine/Nginx on Alibaba Cloud ECS](https://www.hyperse.net//article/cloud/setup-nginx-on-alibaba-cloud-ecs)
+- [Testing React Keyboard Events with Vitest + Happy DOM](https://www.hyperse.net/blog/article/vitest/testing-react-keyboard-events-with-vitest)
+- [Installing Tengine with `headers-more-nginx-module` on an ECS](https://www.hyperse.net/blog/article/cloud/install-nginx-on-alibaba-cloud-ecs)
+- [Mastering Node.js Environments on Alibaba Cloud Linux with NVM and PM2](https://www.hyperse.net/blog/article/cloud/install-nodejs-on-alibaba-cloud-ecs)
+- [Powering Your Web Applications with Tengine/Nginx on Alibaba Cloud ECS](https://www.hyperse.net/blog/article/cloud/setup-nginx-on-alibaba-cloud-ecs)
+- [Installing NGINX with Custom Modules on macOS](https://www.hyperse.net/blog/article/dev-guides/install-nginx-on-macos)
 <!-- BLOG-POST-LIST:END -->
